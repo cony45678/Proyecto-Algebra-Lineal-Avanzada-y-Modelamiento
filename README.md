@@ -1,6 +1,7 @@
-# Proyecto-Algebra-Lineal-Avanzada-y-Modelamiento
-
 # Proyecto 2: PageRank sobre redes reales — Twitter (ICWSM)
+
+## Integrante
+- Constanza Alarcón Medina
 
 ## Datos
 Red obtenida de KONECT: http://konect.cc/networks/munmun_twitter_social/
