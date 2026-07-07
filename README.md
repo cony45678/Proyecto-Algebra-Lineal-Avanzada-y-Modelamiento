@@ -21,4 +21,4 @@ pip install numpy scipy networkx matplotlib
    (distribucion_grados.png, curva_convergencia.png, etc.).
 
 ## Informe
-El informe final está en `proyecto_page_rank.pdf`
+El informe final está en `informe_page_rank.pdf`
